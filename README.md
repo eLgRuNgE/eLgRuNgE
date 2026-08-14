@@ -1,9 +1,12 @@
-- :wave: Hi, I’m Fabian Callejas { @eLgRuNgE };
-- :nerd_face: I'm a software developer with extensive experience in Python, JavaScript, PHP, C, C++ and SQL & NoSQL databases.
-- :eyes: I am interested in technology, software development, reading good books 📖 and listening to rock music 🤘
-- :books: I’m currently learning Cloud Computing, Software Architecture, Docker and Kubernetes.
-- :two_hearts: I’m looking to collaborate on health and technology projects.
-- :mailbox: You can contact me through my twitter (@eLgRuNgE) or my email eLgRuNgE@gmail.com
+<p>👋 Hi, I’m Fabián Callejas { @eLgRuNgE }</p>
+
+<p>💼 I&#8217;m a Technical Leader and Software Development Specialist, currently working in Digital Platforms.<br/>
+🤓 My background includes extensive experience in software engineering, project management, and working with Python, JavaScript, PHP, C, C++, and SQL &amp; NoSQL databases.<br/>
+👀 I am deeply interested in Software Architecture patterns (Domain-Driven Design, Hexagonal, and Event-Driven Architecture) and exploring local AI deployment frameworks like OpenClaw and Antigravity.<br/>
+📚 I’m currently pursuing a Master&#8217;s degree in Engineering, while continuing to learn about Cloud Computing, Docker, and Kubernetes.<br/>
+🎵 When I&#8217;m not coding, you can find me enjoying rock music 🤘 on Hi-Fi audio gear, reading good books 📖, or playing retro arcade games 🕹️.<br/>
+💕 I’m looking to collaborate on innovative technology projects, especially those leveraging robust architectural designs.<br/>
+📫 You can contact me through my Twitter (@eLgRuNgE) or my email eLgRuNgE@gmail.com</p>
 
 <!---
 eLgRuNgE/eLgRuNgE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
